@@ -1,0 +1,2 @@
+Deploy the updated files first.
+Add a Domain property for bharatgreenenergybatteries.online at https://search.google.com/search-console/. Add its verification TXT record in Cloudflare DNS and verify. Submit sitemap.xml under Sitemaps. Inspect the homepage and request indexing. Create or claim and verify the client Google Business Profile at https://business.google.com/ using accurate company details and this website. Rankings and indexing timing are not guaranteed.
